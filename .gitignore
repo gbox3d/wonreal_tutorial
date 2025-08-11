@@ -1,5 +1,8 @@
 DerivedDataCache/
 Binaries/
-Intermediate/
 Saved/
+Build/
+Intermediate/*.bin
+Intermediate/ShaderAutoGen/
+Intermediate/ReimportCache/
 .vs/
